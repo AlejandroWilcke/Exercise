@@ -1,0 +1,34 @@
+.cuotaFija{
+    position: relative;
+    left: 10%;
+    top: 20px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.cuotaValue{
+    position: relative;
+    left: 10%;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.obtenerCreditoBtn{
+    background-color: #009999;
+    border-radius: 0px;
+    height: 50px;
+    width: 68%;
+    font-weight: bold;
+    margin-top: 7%;
+}
+
+.verDetalleBtn{
+    background-color: #006699;
+    border-radius: 0px;
+    height: 50px;
+    width: 30%;
+    float:  right;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-top: 7%;
+}

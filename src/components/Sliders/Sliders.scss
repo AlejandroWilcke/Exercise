@@ -1,0 +1,31 @@
+.rc-slider {
+
+}
+
+.montoTotalValue {
+    position: absolute;
+    color: white;
+    right: 9%;
+    background-color: #003366;
+    height: 30px;
+    width: 120px;
+    font-weight: bold;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.montoTotalText {
+    margin-left: 10%;
+}
+
+.minValueText {
+    position: absolute;
+    left: 10%;
+    margin-top: 3%;
+}
+
+.maxValueText {
+    position: absolute;
+    right: 10%;
+    margin-top: 3%;
+}

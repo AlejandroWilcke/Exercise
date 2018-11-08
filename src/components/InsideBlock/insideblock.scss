@@ -1,0 +1,36 @@
+.insideBlock{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    width: 80%;
+    height: 80%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to bottom, #003366, #003366, #003366, #003366, #003366)
+}
+
+.title{
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+}
+
+.montoTotalSlider{
+    position: relative;
+    top: 5%;
+}
+
+.plazoTotalSlider{
+    position: relative;
+    top: 20%;
+}
+
+.footer{
+    position: relative;
+    top: 40%;
+    left: 10%;
+    width: 80%;
+    height: 20%;
+    background-color: #150f58;
+}
